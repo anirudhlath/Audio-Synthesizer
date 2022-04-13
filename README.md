@@ -1,1 +1,2 @@
-Audio Synthesizer
+# Audio Synthesizer
+This applicaiton can produces different sound waves and manipulate them. This app utilises JavaFX for ease of use but is not a good representation of my UX/UI skills, it is just there to make our lives easier. There are some advanced UX implementations in it though. A user can connect different nodes of different kinds to generate an interesting sound. It can be done by dragging and dropping green output pipes to the inputs of other nodes.
